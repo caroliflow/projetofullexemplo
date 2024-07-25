@@ -2,7 +2,7 @@
 CREATE TABLE `Colaborador` (
     `matricula` VARCHAR(8) NOT NULL,
     `nome` VARCHAR(255) NOT NULL,
-    `cartgo` VARCHAR(50) NOT NULL,
+    `cargo` VARCHAR(50) NOT NULL,
     `setor` VARCHAR(50) NOT NULL,
     `pin` VARCHAR(8) NOT NULL,
 
